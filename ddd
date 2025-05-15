@@ -1,0 +1,9 @@
+| Feature               | Type       | Test Cases | Complexity | Automation Priority      |
+| --------------------- | ---------- | ---------- | ---------- | ------------------------ |
+| SDE Super Table - UI  | Regression | 80         | Medium     | High                     |
+| SDE Super Table - UI  | RFB        | 20         | Complex    | Very High                |
+| Tables & Columns - UI | Regression | 30         | Medium     | Medium                   |
+| Tables & Columns - UI | RFB        | 6          | Complex    | High                     |
+| BUCC Super Table - UI | Regression | 50         | Medium     | High                     |
+| BUCC Super Table - UI | RFB        | 20         | Complex    | Very High                |
+| Production Issues     | Ad-hoc     | 7          | Medium     | Medium (As-needed basis) |
