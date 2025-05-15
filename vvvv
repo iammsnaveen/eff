@@ -1,0 +1,48 @@
+Hi Team,
+
+As discussed, please find the  automation plan for the SDH Super Table modules. We've set the project start date to Monday, May 19, 2025, and refined our estimates to account for completing 2 medium complexity test cases per day.
+
+This plan also includes estimated timelines for 1, 2, and 3 resources, 
+
+
+These estimates include effort for:
+
+Shadow DOM handling using Selenium 4 with JavaScript executors or shadowRoot traversal.
+Verification of UI against API responses for required test cases.
+
+ummary of Total Duration (including 10% buffer):
+
+1 Resource: Approximately 27.4 weeks, estimating completion in late November / early December 2025.
+2 Resources: Approximately 13.8 weeks, estimating completion around late August 2025.
+3 Resources: Approximately 9.2 weeks, estimating completion around late July 2025.
+
+Here's a more compact version of the "Automation Steps & Key Considerations" section, focusing on conciseness while retaining all essential information:
+
+Automation Steps & Key Considerations
+Our automation approach for the SDH Super Table modules will involve:
+
+Planning & Design:
+
+Feasibility analysis of manual test cases for automation.
+Script design and documentation, including identifying reusable components.
+Environment Setup:
+
+Selenium 4 framework configuration and dependency management.
+Setting up test data environments (e.g., databases, API mocks).
+Framework Development & Enhancements:
+
+Robust Shadow DOM handling: This is critical for finding web elements within Shadow DOM. We'll utilize Selenium 4's shadowRoot traversal capabilities and JavaScript executors for dynamic scenarios.
+Angular waits and synchronization: Implementing mechanisms like ExpectedConditions.angularReady() to ensure test stability with Angular's asynchronous behavior.
+Modular test script development: Employing Page Object Models (POM) or component-based models for maintainability and reusability.
+Script Development & Implementation:
+
+Writing automation scripts based on designed test cases.
+Implementing a data-driven approach (Excel/JSON) for dynamic content.
+Integrating API calls for UI verification to ensure data consistency between UI and backend.
+Execution & Reporting:
+
+Setting up test execution pipelines (e.g., Jenkins, GitLab CI/CD).
+Configuring detailed reporting for test results.
+Maintenance:
+
+Regularly reviewing and updating scripts to adapt to application changes and perform periodic regression cycles.
