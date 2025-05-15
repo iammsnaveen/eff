@@ -1,0 +1,12 @@
+| Category                      | Test Cases | Type    | Effort per Case | Total Effort   |
+| ----------------------------- | ---------- | ------- | --------------- | -------------- |
+| SDE Super Table - Regression  | 80         | Medium  | 0.5 day         | 40 days        |
+| SDE Super Table - RFB         | 20         | Complex | 1 day           | 20 days        |
+| Tables & Columns - Regression | 30         | Medium  | 0.5 day         | 15 days        |
+| Tables & Columns - RFB        | 6          | Complex | 1 day           | 6 days         |
+| BUCC Super Table - Regression | 50         | Medium  | 0.5 day         | 25 days        |
+| BUCC Super Table - RFB        | 20         | Complex | 1 day           | 20 days        |
+| Production Issues             | 7          | Medium  | 0.5 day         | 3.5 days       |
+| **Subtotal**                  | **213**    | -       | -               | **129.5 days** |
+| **Add buffer & review**       | -          | -       | -               | **+5 days**    |
+| **Total Effort**              | -          | -       | -               | **134.5 days** |
