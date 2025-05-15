@@ -1,0 +1,77 @@
+    Framework already exists ✅
+
+    Effort assumptions:
+
+        2 Medium test cases/day ⇒ 0.5 day/test case
+
+        1 Complex test case/day ⇒ 1 day/test case
+
+        +5 days total for review, execution, and other efforts
+
+    Automation starts: 19th May 2025
+
+🧮 Effort Calculation
+Category	Test Cases	Type	Effort per Case	Total Effort
+SDE Super Table - Regression	80	Medium	0.5 day	40 days
+SDE Super Table - RFB	20	Complex	1 day	20 days
+Tables & Columns - Regression	30	Medium	0.5 day	15 days
+Tables & Columns - RFB	6	Complex	1 day	6 days
+BUCC Super Table - Regression	50	Medium	0.5 day	25 days
+BUCC Super Table - RFB	20	Complex	1 day	20 days
+Production Issues	7	Medium	0.5 day	3.5 days
+Subtotal	213	-	-	129.5 days
+Add buffer & review	-	-	-	+5 days
+Total Effort	-	-	-	134.5 days
+📅 Plan from 19th May 2025
+🔹 1 Resource
+
+    Total Duration: 134.5 days (≈ 27 full working weeks)
+
+    End Date: 21st November 2025
+
+🔹 2 Resources
+
+    Effort per person: 67.25 days
+
+    Total Duration: ≈ 13.5 weeks
+
+    End Date: 22nd August 2025
+
+🔹 3 Resources
+
+    Effort per person: 44.83 days
+
+    Total Duration: ≈ 9 weeks
+
+    End Date: 18th July 2025
+
+📆 Summary Timeline
+Team Size	Start Date	End Date	Total Duration
+1 Person	19-May-2025	21-Nov-2025	~27 weeks
+2 Persons	19-May-2025	22-Aug-2025	~13.5 weeks
+3 Persons	19-May-2025	18-Jul-2025	~9 weeks
+
+Would you like this in Gantt chart format or an Excel planning sheet?
+You said:
+yes
+ChatGPT said:
+Output image
+
+Here's the summarized plan based on different team sizes for your SDH automation starting from 19th May 2025:
+Team Size	Start Date	End Date	Duration (Work Days)
+1 Person	19-May-2025	23-Nov-2025	134.5 days
+2 Persons	19-May-2025	21-Aug-2025	67.25 days
+3 Persons	19-May-2025	20-Jul-2025	44.83 days
+
+Summary Timeline
+Team Size	Start Date	End Date	Total Duration
+1 Person	19-May-2025	21-Nov-2025	~27 weeks
+2 Persons	19-May-2025	22-Aug-2025	~13.5 weeks
+3 Persons	19-May-2025	18-Jul-2025	~9 weeks
+
+
+| Team Size | Start Date  | End Date    | Duration (Work Days) |
+| --------- | ----------- | ----------- | -------------------- |
+| 1 Person  | 19-May-2025 | 23-Nov-2025 | 134.5 days           |
+| 2 Persons | 19-May-2025 | 21-Aug-2025 | 67.25 days           |
+| 3 Persons | 19-May-2025 | 20-Jul-2025 | 44.83 days           |
