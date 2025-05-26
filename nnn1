@@ -1,0 +1,38 @@
+Dear [Manager's Name],
+
+I am pleased to present an update on our SDH automation initiatives, including progress metrics and effort savings analysis.
+
+### **Summary of Automation Efforts and Savings**
+
+| **Indicator**                        | **Value**                                           |
+|-------------------------------------|------------------------------------------------------|
+| Total SDH features planned for automation | 170 scripts                                              |
+| Total scripts deprecated due to UI changes | 123 scripts                                              |
+| Total remaining planned scripts     | 206 scripts                                              |
+| Total bugs detected during automation | 12                                                     |
+| Total manual effort saved weekly    | **~600 minutes (~10 hours)**                           |
+| Overall automation efficiency gain  | Over **85%** across features                            |
+| CI pipeline integration status      | Successfully integrated for continuous testing        |
+
+### **Effort and Savings (Supporting Data)**
+
+Please find the detailed effort calculations and weekly savings in the attached Excel file, which summarizes:
+
+- Manual effort vs. automation effort per feature
+- Weekly effort saved in minutes
+- Efficiency gains
+
+*(Attach the Excel file here)*
+
+---
+
+### **Key Takeaways**
+- The automation framework has effectively reduced manual testing effort, enabling faster releases.
+- Ongoing efforts will focus on automating remaining features and optimizing scripts.
+- The framework’s CI integration ensures ongoing coverage and quick feedback loops.
+
+Please let me know if you'd like a detailed walkthrough or further data.
+
+Best regards,  
+[Your Name]  
+[Your Position]
