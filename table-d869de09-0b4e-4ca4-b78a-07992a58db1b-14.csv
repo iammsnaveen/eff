@@ -1,0 +1,5 @@
+﻿"Jira ID","Story Description","Cypress Automation Status","Justification / Reason for Delay"
+"[JIRA-1]","[Story 1 Description]","[Completed/In Progress/Not Started]","[Reason for delay or &#39;N/A&#39;]"
+"[JIRA-2]","[Story 2 Description]","[Completed/In Progress/Not Started]","[Reason for delay or &#39;N/A&#39;]"
+"[JIRA-3]","[Story 3 Description]","[Completed/In Progress/Not Started]","[Reason for delay or &#39;N/A&#39;]"
+"...","...","...","..."
