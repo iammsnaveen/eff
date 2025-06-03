@@ -1,0 +1,43 @@
+Subject: Clarification Needed on Cypress Test Automation Efforts
+
+Dear [UI Developer's Name],
+
+I hope this email finds you well.
+
+I wanted to follow up regarding the automation of Cypress test cases for our current stories. Despite multiple reminders, demos, and the allocation of story points, it appears that the Cypress automation has not yet been completed.
+
+Could you please provide a clear justification for not proceeding with the Cypress test automation? Specifically, I would like to understand where the effort is currently being directed if not towards writing these test cases.
+
+If there are reasons preventing you from writing the Cypress tests, please clarify why it hasn't been raised in daily standups. Is Cypress automation causing blockers or dependencies that are impeding progress? Understanding this will help us identify and address any issues effectively.
+
+To facilitate a better understanding, I have prepared a table below listing all the Jira stories worked on, along with their corresponding Cypress automation status and reasons for any delays or non-completion:
+
+Jira ID
+Story Description
+Cypress Automation Status
+Justification / Reason for Delay
+[JIRA-1]
+[Story 1 Description]
+[Completed/In Progress/Not Started]
+[Reason for delay or 'N/A']
+[JIRA-2]
+[Story 2 Description]
+[Completed/In Progress/Not Started]
+[Reason for delay or 'N/A']
+[JIRA-3]
+[Story 3 Description]
+[Completed/In Progress/Not Started]
+[Reason for delay or 'N/A']
+...
+...
+...
+...
+
+Your prompt response will help us understand the current situation and plan accordingly. If there are any blockers, dependencies, or resources needed to complete the automation, please do let me know.
+
+Thank you for your cooperation.
+
+Best regards,
+[Your Name]
+[Your Position]
+[Your Contact Information]
